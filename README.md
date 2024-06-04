@@ -15,3 +15,10 @@ pip install -r requirements.txt
 ```
 python linkshortner.py
 ```
+
+```
+username: sajid
+```
+```
+password: 1234
+```
